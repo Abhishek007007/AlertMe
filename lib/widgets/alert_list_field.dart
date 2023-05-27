@@ -71,6 +71,7 @@ class AlertListField extends StatelessWidget {
                 child: Container(
                   padding: const EdgeInsets.only(left: 18.0, top: 13),
                   child: Column(
+                    crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
                       Text(
                         name,

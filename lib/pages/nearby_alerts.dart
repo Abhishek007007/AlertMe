@@ -22,6 +22,7 @@ class AlertsNear extends StatelessWidget {
             name: 'Mathew alex',
             nearFar: 'Far',
           ),
+      
         ],
       ),
     );
